@@ -3,5 +3,5 @@ import { DefaultTheme } from "styled-components";
 export const Theme: DefaultTheme = {
     bgColor: '#353b48',
     textColor: "#f5f6fa",
-    accentColor: "#4cd137",
+    accentColor: "#8c7ae6",
 }
