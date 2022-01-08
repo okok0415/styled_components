@@ -12,6 +12,8 @@ const Header = styled.header`
     align-items: center;
 `
 
+const body = styled.main``;
+
 const CoinsList = styled.ul``;
 
 const Coin = styled.li`
